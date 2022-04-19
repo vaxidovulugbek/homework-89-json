@@ -91,22 +91,22 @@ h2 {
 
 /* @keyframes  */
 .item:nth-child(1) {
-  animation: my 0.89s 0.1s both;
+  animation: my 0.9s 0.1s both;
 }
 .item:nth-child(2) {
-  animation: my 0.89s 0.29s both;
+  animation: my 0.9s 0.29s both;
 }
 .item:nth-child(3) {
-  animation: my 0.89s 0.39s both;
+  animation: my 0.9s 0.39s both;
 }
 .item:nth-child(4) {
-  animation: my 0.89s 0.49s both;
+  animation: my 0.9s 0.49s both;
 }
 .item:nth-child(5) {
-  animation: my 0.89s 0.59s both;
+  animation: my 0.9s 0.59s both;
 }
 .item:nth-child(6) {
-  animation: my 0.89s 0.69s both;
+  animation: my 0.9s 0.69s both;
 }
 
 @keyframes my {
