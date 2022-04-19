@@ -30,8 +30,8 @@ function renderHTML (el) {
   </div>
   <div class="item__infos"><p class="item__infocom">COMPANY</p> <span class="item__subinfocom">Google</span></div>
   <div class="item__infos"><p class="item__infocom">EMAIL</p> <span class="item__subinfocom">${element.email}</span></div>
-  <div class="item__infos"><p class="item__infocom">PHONE</p> <span class="item__subinfocom">2323232 23Lorem, ipsum dolor.</span></div>
-  <div class="item__infos"><p class="item__infocom">WEBSITE</p> <span class="item__subinfocom">Lorem, ipsum dolor.</span></div>`
+  <div class="item__infos"><p class="item__infocom">PHONE</p> <span class="item__subinfocom">(2232)2342-13822</span></div>
+  <div class="item__infos"><p class="item__infocom">WEBSITE</p> <span class="item__subinfocom">Demarco info</span></div>`
   elList.appendChild(li)
   });
   let elRemoveBtn = document.querySelectorAll(".removeBtn")
